@@ -1,0 +1,4 @@
+python3-distlib: copyright-without-copyright-notice
+python3-distlib: initial-upload-closes-no-bugs
+python3-distlib: no-manual-page
+python3-distlib: zero-byte-file-in-doc-directory
