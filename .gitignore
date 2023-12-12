@@ -21,3 +21,6 @@ build
 .tox
 .idea
 _testdist-0.1
+
+*.egg-info
+.pybuild/
