@@ -1,0 +1,5 @@
+python-distlib source: file-without-copyright-information
+python-distlib source: no-debian-changes
+python-distlib source: source-contains-prebuilt-windows-binary
+python-distlib source: source-is-missing
+python-distlib source: source-package-encodes-python-version
